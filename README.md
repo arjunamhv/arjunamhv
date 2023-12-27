@@ -9,6 +9,8 @@
 
 - 🔭 I’m currently working on **on lots of Laravel websites**
 
+- 👨‍💻 You can see my current project at http://goreserve.eudeka.my.id
+
 - 🌱 I’m currently learning **Full-Stack WebDev on GITS.id, laravel, PHP,and Tailwind CSS**
 
 - 📫 How to reach me **Arjuna.mahavira02@gmail.com**
@@ -51,5 +53,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arjunamhv&show_icons=true&locale=en&layout=compact" alt="arjunamhv" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arjunamhv&show_icons=true&locale=en" alt="arjunamhv" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arjunamhv&" alt="arjunamhv" /></p>
